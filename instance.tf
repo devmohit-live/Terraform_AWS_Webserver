@@ -61,8 +61,8 @@ resource "aws_instance"  "webserver" {
   provisioner "remote-exec" {
     inline = [
       "sudo yum install httpd git -y",
-      "sudo systemctl start httpd",
-      "sudo systemctl enable httpd"
+      "sudo service httpd start",
+      "sudo chkconfig httpd on"
     ]
   }
   
