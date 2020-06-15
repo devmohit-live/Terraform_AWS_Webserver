@@ -47,7 +47,7 @@ resource "aws_security_group" "web" {
 // instance creation
 resource "aws_instance"  "webserver" {
   depends_on= [aws_security_group.web]
-  ami           = "ami-052c08d70def0ac62"
+  ami           = "ami-005956c5f0f757d37"
   instance_type = "t2.micro"
   key_name	= "autokey"
   security_groups =  [ "launch-wizard-2" ] 
