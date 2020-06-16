@@ -204,7 +204,7 @@
                 </div>
               </div>
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/roundicons.png"
+                src="https://d3m7qnjy840iv1.cloudfront.net/roundicons.png"
                 class="img-responsive"
                 alt=""
               />
@@ -222,7 +222,7 @@
                 </div>
               </div>
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/startup-framework.png"
+                src="https://d3m7qnjy840iv1.cloudfront.net/startup-framework.png"
                 class="img-responsive"
                 alt=""
               />
@@ -240,7 +240,7 @@
                 </div>
               </div>
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/treehouse.png"
+                src="https://d3m7qnjy840iv1.cloudfront.net/treehouse.png"
                 class="img-responsive"
                 alt=""
               />
@@ -258,7 +258,7 @@
                 </div>
               </div>
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/golden.png"
+                src="https://d3m7qnjy840iv1.cloudfront.net/golden.png"
                 class="img-responsive"
                 alt=""
               />
@@ -276,7 +276,7 @@
                 </div>
               </div>
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/escape.png"
+                src="https://d3m7qnjy840iv1.cloudfront.net/escape.png"
                 class="img-responsive"
                 alt=""
               />
@@ -294,7 +294,7 @@
                 </div>
               </div>
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/dreams.png"
+                src="https://d3m7qnjy840iv1.cloudfront.net/dreams.png"
                 class="img-responsive"
                 alt=""
               />
@@ -444,7 +444,7 @@
           <div class="col-sm-4">
             <div class="team-member">
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/team1.jpg"
+                src="https://d3m7qnjy840iv1.cloudfront.net/team1.jpg"
                 class="img-responsive img-circle animated infinite jello"
                 alt=""
               />
@@ -466,7 +466,7 @@
           <div class="col-sm-4">
             <div class="team-member">
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/team2.jpg"
+                src="https://d3m7qnjy840iv1.cloudfront.net/team2.jpg"
                 class="img-responsive img-circle animated infinite jello"
                 alt=""
               />
@@ -488,7 +488,7 @@
           <div class="col-sm-4">
             <div class="team-member">
               <img
-                src="https://dzhyhrh5iuwxx.cloudfront.net/team3.jpg"
+                src="https://d3m7qnjy840iv1.cloudfront.net/team3.jpg"
                 class="img-responsive img-circle animated infinite jello"
                 alt=""
               />
