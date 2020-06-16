@@ -47,7 +47,7 @@ resource "aws_security_group" "web" {
 // instance creation
 resource "aws_instance"  "webserver" {
   depends_on= [aws_security_group.web]
-  ami           = "ami-005956c5f0f757d37"
+  ami           = "ami-0447a12f28fddb066"
   instance_type = "t2.micro"
   key_name	= "autokey"
   security_groups =  [ "launch-wizard-2" ] 
@@ -61,8 +61,8 @@ resource "aws_instance"  "webserver" {
   provisioner "remote-exec" {
     inline = [
       "sudo yum install httpd git -y",
-      "sudo service httpd start",
-      "sudo chkconfig httpd on"
+      "sudo systemctl start httpd",
+      "sudo systemctl enable httpd"
     ]
   }
   
